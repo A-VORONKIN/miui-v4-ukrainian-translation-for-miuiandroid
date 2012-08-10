@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="transformation_entries">
-        <item>Стандартный</item>
-        <item>Стд.(Без проскакивания)</item>
-        <item>Угасание</item>
+        <item>Стандартний</item>
+        <item>Стд.(без проскакування)</item>
+        <item>Затухання</item>
         <item>Поворот</item>
-        <item>Страница</item>
+        <item>Стоірнка</item>
         <item>Каскад</item>
-        <item>Вращение</item>
-        <item>3D Куб</item>
+        <item>Обертання</item>
+        <item>3D куб</item>
     </string-array>
     <string-array name="wallpaper_scroll_entries">
-        <item>Как в теме</item>
-        <item>Центр</item>
-        <item>Лево</item>
-        <item>Право</item>
+        <item>Увімкнено</item>
+        <item>Вимкнено, шпалери по центру</item>
+        <item>Вимкнено, шпалери зліва</item>
+        <item>Вимкнено, шпалери зправа</item>
     </string-array>
 </resources>
