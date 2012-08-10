@@ -26,7 +26,7 @@
   <string name="confirm_download_cancelation_dialog_message">Ви впевнені, що хочете скасувати завантаження оновлення?</string>
   <string name="copy_install_log">Скопійовано в буфер обміну</string>
   <string name="current_version_text">Встановлена версія:</string>
-  <string name="current_version_update_monthly_build">Зараз версія</string>
+  <string name="current_version_update_monthly_build">Поточна версія</string>
   <string name="dialog_no">Ні</string>
   <string name="dialog_ok">OK</string>
   <string name="dialog_yes">Так</string>
