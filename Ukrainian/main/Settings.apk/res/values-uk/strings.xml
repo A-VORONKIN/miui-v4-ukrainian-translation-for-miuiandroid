@@ -31,14 +31,14 @@
   <string name="accessibility_script_injection_security_warning_title">Встановити веб-скрипти?</string>
   <string name="accessibility_script_injection_title">Установка веб-скриптів</string>
   <string name="accessibility_service_default_description">Немає опису</string>
-  <string name="accessibility_service_disable_warning_summary">Щоб відключити %1$s, натисніть ОК</string>
+  <string name="accessibility_service_disable_warning_summary">Щоб вимкнути %1$s, натисніть ОК</string>
   <string name="accessibility_service_disable_warning_title">Вимкнути %1$s?</string>
   <string name="accessibility_service_no_apps_message">Безкоштовна програма TalkBack дає голосовий опис елементів інтерфейсу для користувачів з порушенням зору. Встановити його з Google Play?</string>
   <string name="accessibility_service_no_apps_title">Потрібна програма читання з екрану?</string>
   <string name="accessibility_service_security_warning_summary">Служба %1$s може зберігати будь-який текст що вводиться, крім паролів. Зокрема, зберігаються особисті відомості, наприклад номери кредитних карт. Крім того, можуть збиратися дані про використання телефону</string>
   <string name="accessibility_service_security_warning_title">Використовувати %1$s?</string>
-  <string name="accessibility_service_state_off">Відключено</string>
-  <string name="accessibility_service_state_on">Включено</string>
+  <string name="accessibility_service_state_off">Вимкнено</string>
+  <string name="accessibility_service_state_on">Увімкнено</string>
   <string name="accessibility_services_title">Служби</string>
   <string name="accessibility_settings">Спец. можливості</string>
   <string name="accessibility_settings_title">Налаштування спеціальних можливостей</string>
@@ -388,7 +388,7 @@
   <string name="bluetooth_preference_paired_devices">Спарені пристрої</string>
   <string name="bluetooth_preference_scan_title">Пошук пристроїв</string>
   <string name="bluetooth_profile_a2dp">Профіль A2DP</string>
-  <string name="bluetooth_profile_details">Налаштування профіля</string>
+  <string name="bluetooth_profile_details">Налаштування профілю</string>
   <string name="bluetooth_profile_headset">Профіль HSP/HFP</string>
   <string name="bluetooth_profile_hid">Профіль HID</string>
   <string name="bluetooth_profile_name">"%1$s's KDG Phone"</string>
@@ -461,7 +461,7 @@
   <string name="carrier_enabled">Включити/виключити APN</string>
   <string name="carrier_enabled_summaryOff">APN вимкнений</string>
   <string name="carrier_enabled_summaryOn">APN включений</string>
-  <string name="cdma_security_settings_summary">Настройка функції \"Моє місце розташування\", розблокування екрану і блокування сховища реєстраційних даних</string>
+  <string name="cdma_security_settings_summary">Налаштування функції \"Моє місце розташування\", розблокування екрану і блокування сховища реєстраційних даних</string>
   <string name="cell_broadcast_settings">Широкомовні повідомлення</string>
   <string name="cell_broadcast_settings_summary">Вибір типу повідомлень для відображення</string>
   <string name="checkbox_notification_same_as_incoming_call">Використовувати цей рівень гучності також для повідомлень</string>
@@ -472,10 +472,10 @@
   <string name="clear_data_dlg_title">Видалити дані програми?</string>
   <string name="clear_data_failed">Дані не видалені</string>
   <string name="clear_failed_dlg_text">Не вдалося видалити дані</string>
-  <string name="clear_failed_dlg_title">Стерти дані</string>
-  <string name="clear_user_data_text">Стерти дані</string>
-  <string name="common_settings">Загальні налаштування</string>
-  <string name="complete_settings">Всі налаштування</string>
+  <string name="clear_failed_dlg_title">Очистити дані</string>
+  <string name="clear_user_data_text">Очистити дані</string>
+  <string name="common_settings">Швидкі</string>
+  <string name="complete_settings">Повні</string>
   <string name="computing_size">Обчислення...</string>
   <string name="config_list_label">Конфігурація мереж</string>
   <string name="configure_input_method">Настройка методів введення</string>
@@ -715,7 +715,7 @@
   <string name="enable_traces_summary_num">Включених трасувань: %1$d</string>
   <string name="enable_traces_title">Включити трасування </string>
   <string name="enforce_read_external_confirm_message">"Коли увімкнено захист USB сховища, програми повинні запитувати дозволу для зчитування даних з зовнішнього сховища.
-	
+
 Деякі програми можуть перестати працювати, поки їх не оновлять розробники"</string>
   <string name="enforce_read_external_confirm_title">Захистити USB сховище?</string>
   <string name="enforce_read_external_summary">Програми повинні посилати запит на доступ до USB сховища</string>
@@ -768,7 +768,7 @@
   <string name="gadget_title">Упр. живленням</string>
   <string name="gadget_toggle_bluetooth">Оновлення налаштувань Bluetooth</string>
   <string name="gadget_toggle_wifi">Оновлення налаштувань Wi-Fi</string>
-  <string name="game_controller_settings_category">Игровий контролер</string>
+  <string name="game_controller_settings_category">Ігровий контролер</string>
   <string name="getConfiguredNetworks">Налаштування мережі</string>
   <string name="getConnectionInfo">Інформація про з\'єднання</string>
   <string name="haptic_feedback_enable_title">Включити реагування вібруванням</string>
@@ -805,7 +805,7 @@
   <string name="input_methods_and_subtype_enabler_title">Виберіть активні способи введення</string>
   <string name="input_methods_settings_label_format">Налаштування %1$s</string>
   <string name="input_methods_settings_title">Введення тексту</string>
-  <string name="input_settings">Налаштування вводу</string>
+  <string name="input_settings">Налаштування введення</string>
   <string name="install_all_warning">Ваші особисті дані і дані телефону більш уразливі для атак програм з невідомих джерел. Ви погоджуєтеся з тим, що несете повну відповідальність за будь-який збиток, нанесений телефону, і втрату даних, пов\'язану з використанням цих програм</string>
   <string name="install_applications">Невідомі джерела</string>
   <string name="install_unknown_applications">Дозволити установку програм, отриманих не з Маркета</string>
@@ -1196,7 +1196,7 @@
   <string name="recognizer_settings_title">Голосовий пошук</string>
   <string name="recognizer_title">Розпізнавання голосу</string>
   <string name="recompute_size">Повторне обчислення розміру...</string>
-  <string name="remove_account_failed">Акаунт необхідний для доступу до деяких програм. Щоб видалити його, потрібно відновити на пристрої настройки за замовчуванням (в результаті всі особисті дані будуть видалені). Це можна зробити в розділі \"Налаштування&gt; \" Відновлення і скидання \"</string>
+  <string name="remove_account_failed">Акаунт необхідний для доступу до деяких програм. Щоб видалити його, потрібно відновити на пристрої настройки за замовчуванням (в результаті всі особисті дані будуть видалені). Це можна зробити в розділі \"Параметри&gt; \" Відновлення і скидання \"</string>
   <string name="remove_account_label">Видалити акаунт</string>
   <string name="remove_device_admin">Вимкнути</string>
   <string name="remove_from_frequently_fragment">Видалити \"%s\" із загальних налаштувань?</string>
@@ -1334,9 +1334,9 @@
   <string name="set_dds_success">Підписка даних успішно встановлена</string>
   <string name="settings_backup">Створити резервну копію налаштувань</string>
   <string name="settings_backup_summary">Резервна копія налаштувань</string>
-  <string name="settings_button">Налаштування</string>
-  <string name="settings_label">Налаштування</string>
-  <string name="settings_label_launcher">Налаштування</string>
+  <string name="settings_button">Параметри</string>
+  <string name="settings_label">Параметри</string>
+  <string name="settings_label_launcher">Параметри</string>
   <string name="settings_license_activity_loading">Триває завантаження...</string>
   <string name="settings_license_activity_title">Ліцензії відкритого ПЗ</string>
   <string name="settings_license_activity_unavailable">При завантаженні ліцензій виникла неполадка</string>
@@ -1344,7 +1344,7 @@
   <string name="settings_safetylegal_activity_title">Відомості про безпеку</string>
   <string name="settings_safetylegal_activity_unreachable">Пристрій не підключено до Інтернету. Щоб переглянути цю інформацію, відкрийте сторінку %s на будь-якому комп\'ютері з інтернет-доступом</string>
   <string name="settings_safetylegal_title">Відомості про безпеку</string>
-  <string name="settings_shortcut">Ярлик налаштувань</string>
+  <string name="settings_shortcut">Ярлик параметрів</string>
   <string name="show_all_anrs">Все ANR</string>
   <string name="show_all_anrs_summary">Повідомляти про те, що програма не відповідає</string>
   <string name="show_background_processes">Показати процеси в кеші</string>
@@ -1659,7 +1659,7 @@
   <string name="user_market_apps_heading">Встановлене ПЗ</string>
   <string name="user_market_requires_pin">Потрібен PIN</string>
   <string name="user_max_content_rating">Рейтинг вмісту</string>
-  <string name="user_name_title">И\'мя</string>
+  <string name="user_name_title">І\'мя</string>
   <string name="user_new_user_name">Pesky kid</string>
   <string name="user_remove_user_menu">Видалити користувача </string>
   <string name="user_restrictions_heading">Обмеження вмісту</string>
@@ -1769,7 +1769,7 @@
   <string name="wifi_connect">Підключити</string>
   <string name="wifi_disabled_generic">Відключено</string>
   <string name="wifi_disabled_heading" />
-  <string name="wifi_disabled_help">Мережа відхилена, оскільки з\'єднання нестійке. Щоб змінити параметри, виберіть \"Налаштування&gt; Wi-Fi\" і відкрийте меню \"Додаткові функції\"</string>
+  <string name="wifi_disabled_help">Мережа відхилена, оскільки з\'єднання нестійке. Щоб змінити параметри, виберіть \"Параметри&gt; Wi-Fi\" і відкрийте меню \"Додаткові функції\"</string>
   <string name="wifi_disabled_network_failure">Включено</string>
   <string name="wifi_disabled_password_failure">Помилка аутентифікації</string>
   <string name="wifi_dns1">DNS 1</string>
@@ -1819,9 +1819,9 @@
   <string name="wifi_p2p_device_info">Інформація про пристрій</string>
   <string name="wifi_p2p_disconnect_message">Якщо відключитися, то ваше з\'єднання з %1$s буде розірвано</string>
   <string name="wifi_p2p_disconnect_multiple_message">Якщо відключитися, то ваше з\'єднання з %1$s та %2$s іншими пристроями буде разірвано</string>
-  <string name="wifi_p2p_disconnect_title">Разъединить?</string>
-  <string name="wifi_p2p_failed_connect_message">"Нет соединения."</string>
-  <string name="wifi_p2p_failed_rename_message">Ошибка переименования.</string>
+  <string name="wifi_p2p_disconnect_title">Роз\'єднати?</string>
+  <string name="wifi_p2p_failed_connect_message">"Немає з\'єднання"</string>
+  <string name="wifi_p2p_failed_rename_message">Помилка перейменування</string>
   <string name="wifi_p2p_menu_advanced">Додатково</string>
   <string name="wifi_p2p_menu_create_group">Створити групу</string>
   <string name="wifi_p2p_menu_remove_group">Видалити групу</string>
@@ -1898,21 +1898,21 @@
   <string name="wifi_setup_title_editing_network">Підключення до мережі Wi-Fi %s</string>
   <string name="wifi_setup_wizard_title">Вибір Wi-Fi</string>
   <string name="wifi_setup_wps">Автоналаштування (WPS)</string>
-  <string name="wifi_show_advanced">Додаткова</string>
+  <string name="wifi_show_advanced">Додатково</string>
   <string name="wifi_show_password">Показувати пароль</string>
   <string name="wifi_signal">Рівень сигналу</string>
   <string name="wifi_speed">Швідкість зв\'язку</string>
   <string name="wifi_ssid">Назва мережі (SSID)</string>
-  <string name="wifi_starting">Включення Wi-Fi...</string>
-  <string name="wifi_state_disabled">Відключено</string>
+  <string name="wifi_starting">Увімкнення Wi-Fi...</string>
+  <string name="wifi_state_disabled">Вимкнено</string>
   <string name="wifi_state_disabling">Вимкнення</string>
-  <string name="wifi_state_enabled">Підключено</string>
-  <string name="wifi_state_enabling">Включення</string>
+  <string name="wifi_state_enabled">З\'єднано</string>
+  <string name="wifi_state_enabling">Увімкнення</string>
   <string name="wifi_state_label">"Стан Wi-Fi:"</string>
   <string name="wifi_state_unknown">Невідомо</string>
   <string name="wifi_status">Статус</string>
   <string name="wifi_status_test">Статус Wi-Fi</string>
-  <string name="wifi_stopping">Відключення Wi-Fi...</string>
+  <string name="wifi_stopping">Вимкнення Wi-Fi...</string>
   <string name="wifi_tether_checkbox_text">Точка доступу Wi-Fi</string>
   <string name="wifi_tether_configure_ap_text">Налаштувати точку доступу Wi-Fi</string>
   <string name="wifi_tether_configure_ssid_default">Хот-спот Android</string>
@@ -1939,7 +1939,7 @@
   <string name="wifi_wps_overlap_error">Виявлено інший захищений сеанс Wi-Fi. Повторіть спробу пізніше</string>
   <string name="wifi_wps_pin">Введіть PIN-код точки доступу</string>
   <string name="wifi_wps_pin_output">Введіть PIN-код %1$s в точці доступу</string>
-  <string name="wifi_wps_setup_msg">Вмикання WPS…</string>
+  <string name="wifi_wps_setup_msg">Увімкнення WPS…</string>
   <string name="wifi_wps_setup_title">Налаштування WPS</string>
   <string name="wimax_settings">Налаштування 4G</string>
   <string name="wimax_settings_summary">Підключення та налаштування мережі і модему 4G</string>
